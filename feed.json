@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://adamprocter.micro.blog/2025/04/25/hours-working-with-claude-and.html",
+				
+				"content_html": "<p>4 hours working with Claude and Azure and still can’t quite get my GitHub yml action to do all I want. :(</p>\n",
+				"content_text": "4 hours working with Claude and Azure and still can’t quite get my GitHub yml action to do all I want. :(\n",
+				"date_published": "2025-04-25T20:55:11+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/04/25/hours-working-with-claude-and.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/04/24/hey-so-yeah-maybe-its.html",
+				
+				"content_html": "<p>Hey so yeah maybe it’s likely I have undiagnosed dyslexia and dyspraxia. BUT iOS keyboard seriously you really do mess with me. anotmouse what are you talking about even when I look at the keyboard I can see that anonymous is more likely. Keyboard Ken Kocienda come back to Apple!</p>\n",
+				"content_text": "Hey so yeah maybe it’s likely I have undiagnosed dyslexia and dyspraxia. BUT iOS keyboard seriously you really do mess with me. anotmouse what are you talking about even when I look at the keyboard I can see that anonymous is more likely. Keyboard Ken Kocienda come back to Apple!\n",
+				"date_published": "2025-04-24T17:58:28+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/04/24/hey-so-yeah-maybe-its.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/04/23/the-design-museum-i-am.html",
+				
+				"content_html": "<p>The Design Museum. <a href=\"http://maps.apple.com/?ll=51.499874,-0.200159\">📍</a></p>\n<p>I am actually a bit lost without FourSquare. Hope Swarm actually gets some useful updates. In London at the deign museum to see Tim Burton exhibition.</p>\n",
+				"content_text": "The Design Museum. [📍](http://maps.apple.com/?ll=51.499874,-0.200159)\n\nI am actually a bit lost without FourSquare. Hope Swarm actually gets some useful updates. In London at the deign museum to see Tim Burton exhibition. \n",
+				"date_published": "2025-04-23T12:04:03+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/04/23/the-design-museum-i-am.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/04/22/walk-take-a-train-go.html",
+				
+				"content_html": "<p>Walk, take a train, go vegan for the day, use less water, turn off unnecessary devices and lights. Just do something different than your norm for Earth Day and show you care.</p>\n",
+				"content_text": "Walk, take a train, go vegan for the day, use less water, turn off unnecessary devices and lights. Just do something different than your norm for Earth Day and show you care. \n",
+				"date_published": "2025-04-22T07:22:26+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/04/22/walk-take-a-train-go.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/04/20/151423.html",
+				
+				"content_html": "<p>🐱</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🐱 \n\n<img src=\"uploads/2025/a1d6e32cf5cf4800ae24eb3fa07bb70c.jpg\" width=\"450\" height=\"600\" alt=\"Our Ginger Maine Coone outside looking around at the world \">\n",
+				"date_published": "2025-04-20T15:14:23+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/04/20/151423.html",
+				"tags": ["Flickr"]
+			},
+			{
 				"id": "http://adamprocter.micro.blog/2025/04/20/i-didnt-even-know-it.html",
 				
 				"content_html": "<p>I didn’t even know it was possible for a company to pay for just the web versions of Office 365. But trying to help my wife in these “apps” is painful, maybe it’s macOS safari but it locks up and you just don’t know why.</p>\n",
@@ -25,8 +66,8 @@
 			{
 				"id": "http://adamprocter.micro.blog/2025/04/17/pigeons-and-seagulls-gather-on.html",
 				
-				"content_html": "<p>Pigeons and Seagulls gather on the green feeding 🐦</p>\n<p><img src=\"https://discursive.adamprocter.co.uk/uploads/2025/image-20250417-183028-ebd3353f.jpg\" alt=\"Pigeons and Seagulls gather on the green feeding\"></p>\n",
-				"content_text": "Pigeons and Seagulls gather on the green feeding 🐦\n\n![Pigeons and Seagulls gather on the green feeding](https://discursive.adamprocter.co.uk/uploads/2025/image-20250417-183028-ebd3353f.jpg)\n",
+				"content_html": "<p>Pigeons and Seagulls gather on the green feeding 🐦</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1123/2025/image-20250417-183028-ebd3353f.jpg\" alt=\"Pigeons and Seagulls gather on the green feeding\"></p>\n",
+				"content_text": "Pigeons and Seagulls gather on the green feeding 🐦\n\n![Pigeons and Seagulls gather on the green feeding](https://cdn.uploads.micro.blog/1123/2025/image-20250417-183028-ebd3353f.jpg)\n",
 				"date_published": "2025-04-17T18:30:37+01:00",
 				"url": "https://discursive.adamprocter.co.uk/2025/04/17/pigeons-and-seagulls-gather-on.html"
 			},
