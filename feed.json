@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://adamprocter.micro.blog/2025/05/02/its-time-to-believe-come.html",
+				
+				"content_html": "<p>It’s time to believe come on Wimbledon. We can do this. Must not lose game for play off place tomorrow v Grimsby so my and the Same Old Wombles podcast team called on fans to make a video to let the club know we are with them for this crucial game!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "It’s time to believe come on Wimbledon. We can do this. Must not lose game for play off place tomorrow v Grimsby so my and the Same Old Wombles podcast team called on fans to make a video to let the club know we are with them for this crucial game!\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://discursive.adamprocter.co.uk/uploads/2025/d3bddb257e.mp4\" width=\"480\" height=\"848\" poster=\"https://discursive.adamprocter.co.uk/uploads/2025/82422f2217.png\" preload=\"none\"></video>\n",
+				"date_published": "2025-05-02T19:49:14+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/05/02/its-time-to-believe-come.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/04/28/need-to-cancel-beer-not.html",
+				
+				"content_html": "<p>Need to cancel Beer 52, not loving the selections anymore and an expense I don’t need atm but you have to phone them to cancel which is a bit of a naughty step too. Will try and find time to call them tomorrow</p>\n",
+				"content_text": "Need to cancel Beer 52, not loving the selections anymore and an expense I don’t need atm but you have to phone them to cancel which is a bit of a naughty step too. Will try and find time to call them tomorrow \n",
+				"date_published": "2025-04-28T17:24:46+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/04/28/need-to-cancel-beer-not.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/04/28/this-is-what-happens-you.html",
+				
+				"content_html": "<p>This is what happens you vibe code a yml / docker / azure / github workflow and your not exactly sure what you are doing but at least it is now working! A long list of code commits indeed, most were unnecessary as mainly trial and error vibe coding and watching github workflows break.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is what happens you vibe code a yml / docker / azure / github workflow and your not exactly sure what you are doing but at least it is now working! A long list of code commits indeed, most were unnecessary as mainly trial and error vibe coding and watching github workflows break.\n\n<img src=\"uploads/2025/8a9f1ab6d4.png\" width=\"423\" height=\"600\" alt=\"screenshot of a long list of code commits, of which most are unnecessary as mainly trial and error vibe coding\">\n",
+				"date_published": "2025-04-28T12:51:16+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/04/28/this-is-what-happens-you.html",
+				"tags": ["Flickr"]
+			},
+			{
 				"id": "http://adamprocter.micro.blog/2025/04/25/hours-working-with-claude-and.html",
 				
 				"content_html": "<p>4 hours working with Claude and Azure and still can’t quite get my GitHub yml action to do all I want. :(</p>\n",
@@ -42,7 +67,7 @@
 				"id": "http://adamprocter.micro.blog/2025/04/20/151423.html",
 				
 				"content_html": "<p>🐱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🐱 \n\n<img src=\"uploads/2025/a1d6e32cf5cf4800ae24eb3fa07bb70c.jpg\" width=\"450\" height=\"600\" alt=\"Our Ginger Maine Coone outside looking around at the world \">\n",
+				"content_text": "🐱 \n\n<img src=\"https://cdn.uploads.micro.blog/1123/2025/a1d6e32cf5cf4800ae24eb3fa07bb70c.jpg\" width=\"450\" height=\"600\" alt=\"Our Ginger Maine Coone outside looking around at the world \">\n",
 				"date_published": "2025-04-20T15:14:23+01:00",
 				"url": "https://discursive.adamprocter.co.uk/2025/04/20/151423.html",
 				"tags": ["Flickr"]
