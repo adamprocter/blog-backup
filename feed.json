@@ -7,10 +7,44 @@
 	"items": [
 		
 			{
+				"id": "http://adamprocter.micro.blog/2025/06/28/222545.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2025/85d47af42c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-28T22:25:45+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/06/28/222545.html",
+				"tags": ["Flickr"]
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/06/26/just-deleted-a-ton-of.html",
+				
+				"content_html": "<p>Just deleted a ton of podcasts in overcast so maybe I might get back into listening to the ones I kept. Oh just spotted a <a href=\"https://micro.blog/coreint\">@coreint</a> special !</p>\n",
+				"content_text": "Just deleted a ton of podcasts in overcast so maybe I might get back into listening to the ones I kept. Oh just spotted a [@coreint](https://micro.blog/coreint) special !\n",
+				"date_published": "2025-06-26T21:51:42+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/06/26/just-deleted-a-ton-of.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/06/24/this-week-on-the-same.html",
+				
+				"content_html": "<p>This week on the Same Old Wombles podcast we got to talk to AFC Wimbledon Fan, comedian and libertarian anarchist Mark Thomas <a href=\"http://markthomasinfo.bsky.social\">@markthomasinfo.bsky.social</a> ! - Listen now - <a href=\"https://www.sameoldwombles.com/summer-season-episode-2-a-special-mark/\">www.sameoldwombles.com/summer-se&hellip;</a>  (in all the podcatching apps too!)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "This week on the Same Old Wombles podcast we got to talk to AFC Wimbledon Fan, comedian and libertarian anarchist Mark Thomas [@markthomasinfo.bsky.social](http://markthomasinfo.bsky.social) ! - Listen now - [www.sameoldwombles.com/summer-se...](https://www.sameoldwombles.com/summer-season-episode-2-a-special-mark/)  (in all the podcatching apps too!)\n\n\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://discursive.adamprocter.co.uk/uploads/2025/5604635573.mov\" width=\"720\" height=\"720\" poster=\"https://discursive.adamprocter.co.uk/uploads/2025/d72454e763.png\" preload=\"none\"></video>\n",
+				"date_published": "2025-06-24T16:55:21+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/06/24/this-week-on-the-same.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2025/06/24/arrghh-just-bought-my-flexi.html",
+				
+				"content_html": "<p>Arrghh just bought my flexi train tickets in wrong app I was not thinking. All good just means I have to scan my phone not use my smart card for the next 8 trips.</p>\n",
+				"content_text": "Arrghh just bought my flexi train tickets in wrong app I was not thinking. All good just means I have to scan my phone not use my smart card for the next 8 trips. \n",
+				"date_published": "2025-06-24T08:20:11+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2025/06/24/arrghh-just-bought-my-flexi.html"
+			},
+			{
 				"id": "http://adamprocter.micro.blog/2025/06/22/i-mean-who-doesnt-like.html",
 				
-				"content_html": "<p>I mean who doesn’t like a new steel band record in 2025!</p>\n<p>[odesli.com/<a href=\"https://m...\">m&hellip;</a>](<a href=\"https://odesli.com/https://music.apple.com/gb/album/big-crown-vaults-vol-4/1793432504\">https://odesli.com/https://music.apple.com/gb/album/big-crown-vaults-vol-4/1793432504</a>)</p>\n",
-				"content_text": "I mean who doesn’t like a new steel band record in 2025!\n\n[odesli.com/[m...](https://m...)](https://odesli.com/https://music.apple.com/gb/album/big-crown-vaults-vol-4/1793432504)\n",
+				"content_html": "<p>I mean who doesn’t like a new steel band record in 2025!</p>\n<p><a href=\"https://odesli.com/https://music.apple.com/gb/album/big-crown-vaults-vol-4/1793432504\">odesli.com</a></p>\n",
+				"content_text": "I mean who doesn’t like a new steel band record in 2025!\n\n[odesli.com](https://odesli.com/https://music.apple.com/gb/album/big-crown-vaults-vol-4/1793432504)\n",
 				"date_published": "2025-06-22T20:00:26+01:00",
 				"url": "https://discursive.adamprocter.co.uk/2025/06/22/i-mean-who-doesnt-like.html"
 			},
@@ -92,8 +126,8 @@
 			{
 				"id": "http://adamprocter.micro.blog/2025/06/08/oh-its-sunday-been-a.html",
 				
-				"content_html": "<p>Oh it’s Sunday been a manic few weeks. Shall try and today’s garden today. Need to loan the lawn mower to neighbours as well, I like the fact we share. Well I buy they use 🤣</p>\n",
-				"content_text": "Oh it’s Sunday been a manic few weeks. Shall try and today’s garden today. Need to loan the lawn mower to neighbours as well, I like the fact we share. Well I buy they use 🤣\n",
+				"content_html": "<p>Oh it’s Sunday been a manic few weeks. Shall try and tidy garden today. Need to loan the lawn mower to neighbours as well, I like the fact we share. Well I buy they use 🤣</p>\n",
+				"content_text": "Oh it’s Sunday been a manic few weeks. Shall try and tidy garden today. Need to loan the lawn mower to neighbours as well, I like the fact we share. Well I buy they use 🤣\n",
 				"date_published": "2025-06-08T11:08:43+01:00",
 				"url": "https://discursive.adamprocter.co.uk/2025/06/08/oh-its-sunday-been-a.html"
 			},
