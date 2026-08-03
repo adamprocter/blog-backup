@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://adamprocter.micro.blog/2026/07/31/205047.html",
+				
+				"content_html": "<p>Evening - Tracey Chapman - Why? [odesli.com/<a href=\"https://m...\">m&hellip;</a>](<a href=\"https://odesli.com/https://music.apple.com/gb/album/why/79565550?i=79565537\">https://odesli.com/https://music.apple.com/gb/album/why/79565550?i=79565537</a>)</p>\n",
+				"content_text": "Evening - Tracey Chapman - Why? [odesli.com/[m...](https://m...)](https://odesli.com/https://music.apple.com/gb/album/why/79565550?i=79565537)\n",
+				"date_published": "2026-07-31T20:50:47+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2026/07/31/205047.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2026/07/31/i-think-two-on-my.html",
+				
+				"content_html": "<p>I think two on my “smart” bulbs have just died</p>\n",
+				"content_text": "I think two on my “smart” bulbs have just died \n",
+				"date_published": "2026-07-31T20:41:23+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2026/07/31/i-think-two-on-my.html"
+			},
+			{
+				"id": "http://adamprocter.micro.blog/2026/07/31/cross-posting-is-never-all.html",
+				
+				"content_html": "<p>Cross posting is never all it’s cracked up tot be when you try to mention people <a href=\"https://micro.blog/dajb@social.coop\">@dajb@social.coop</a></p>\n",
+				"content_text": "Cross posting is never all it’s cracked up tot be when you try to mention people [@dajb@social.coop](https://micro.blog/dajb@social.coop)\n",
+				"date_published": "2026-07-31T20:36:14+01:00",
+				"url": "https://discursive.adamprocter.co.uk/2026/07/31/cross-posting-is-never-all.html"
+			},
+			{
 				"id": "http://adamprocter.micro.blog/2026/07/31/ha-got-a-link-to.html",
 				
-				"content_html": "<p>Ha got a link to words first used in print for your birth year and <a href=\"http://dougbelshaw.com\">@dougbelshaw.com</a> anc others picked your five that resonate</p>\n<p>I pick</p>\n<ul>\n<li>bitmapped</li>\n<li>control key</li>\n<li>de-stress</li>\n<li>emotional intelligence</li>\n<li>MDMA</li>\n</ul>\n<p><a href=\"https://www.merriam-webster.com/time-traveler/\">www.merriam-webster.com/time-trav&hellip;</a></p>\n<p>👍</p>\n",
-				"content_text": "Ha got a link to words first used in print for your birth year and [@dougbelshaw.com](http://dougbelshaw.com) anc others picked your five that resonate \n\nI pick \n\n- bitmapped\n- control key\n- de-stress\n- emotional intelligence \n- MDMA\n\n[www.merriam-webster.com/time-trav...](https://www.merriam-webster.com/time-traveler/)\n\n👍\n",
+				"content_html": "<p>Ha got a link to words first used in print for your birth year and <a href=\"http://dougbelshaw.com\">@dougbelshaw.com</a> <a href=\"https://micro.blog/dajb@social.coop\">@dajb@social.coop</a> and others picked your five that resonate</p>\n<p>I pick</p>\n<ul>\n<li>bitmapped</li>\n<li>control key</li>\n<li>de-stress</li>\n<li>emotional intelligence</li>\n<li>MDMA</li>\n</ul>\n<p><a href=\"https://www.merriam-webster.com/time-traveler/\">www.merriam-webster.com/time-trav&hellip;</a></p>\n<p>👍</p>\n",
+				"content_text": "Ha got a link to words first used in print for your birth year and [@dougbelshaw.com](http://dougbelshaw.com) [@dajb@social.coop](https://micro.blog/dajb@social.coop) and others picked your five that resonate \n\nI pick \n\n- bitmapped\n- control key\n- de-stress\n- emotional intelligence \n- MDMA\n\n[www.merriam-webster.com/time-trav...](https://www.merriam-webster.com/time-traveler/)\n\n👍\n",
 				"date_published": "2026-07-31T20:30:41+01:00",
 				"url": "https://discursive.adamprocter.co.uk/2026/07/31/ha-got-a-link-to.html"
 			},
@@ -42,8 +66,8 @@
 			{
 				"id": "http://adamprocter.micro.blog/2026/07/21/can-i-just-point-out.html",
 				
-				"content_html": "<p>Can I just point out that X lies to you if you don’t have the app. Because this is a  podcast I produce and am a host on, but I don’t touch X and I know what we post on X and it’s a post a week about our show which has over 350 episodes, so there is 350 posts at least</p>\n<img src=\"uploads/2026/1981e50246.jpg\" width=\"331\" height=\"600\" alt=\"An unofficial AFC Wimbledon podcast and blog account on X.com features a profile with a header image of a crowded football stadium.\">\n",
-				"content_text": "Can I just point out that X lies to you if you don’t have the app. Because this is a  podcast I produce and am a host on, but I don’t touch X and I know what we post on X and it’s a post a week about our show which has over 350 episodes, so there is 350 posts at least \n\n<img src=\"uploads/2026/1981e50246.jpg\" width=\"331\" height=\"600\" alt=\"An unofficial AFC Wimbledon podcast and blog account on X.com features a profile with a header image of a crowded football stadium.\">\n",
+				"content_html": "<p>Can I just point out that X lies to you if you don’t have the app. Because this is a  podcast I produce and am a host on, but I don’t touch X and I know what we post on X and it’s a post a week about our show which has over 350 episodes, so there is 350 posts at least</p>\n<img src=\"https://cdn.uploads.micro.blog/1123/2026/1981e50246.jpg\" width=\"331\" height=\"600\" alt=\"An unofficial AFC Wimbledon podcast and blog account on X.com features a profile with a header image of a crowded football stadium.\">\n",
+				"content_text": "Can I just point out that X lies to you if you don’t have the app. Because this is a  podcast I produce and am a host on, but I don’t touch X and I know what we post on X and it’s a post a week about our show which has over 350 episodes, so there is 350 posts at least \n\n<img src=\"https://cdn.uploads.micro.blog/1123/2026/1981e50246.jpg\" width=\"331\" height=\"600\" alt=\"An unofficial AFC Wimbledon podcast and blog account on X.com features a profile with a header image of a crowded football stadium.\">\n",
 				"date_published": "2026-07-21T21:26:06+01:00",
 				"url": "https://discursive.adamprocter.co.uk/2026/07/21/can-i-just-point-out.html",
 				"tags": ["Football","Flickr"]
